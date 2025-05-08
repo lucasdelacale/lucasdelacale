@@ -36,9 +36,3 @@ Although I'm still early in my coding journey, I’m open to:
 
 I'm committed to continuous learning and growth to become a top-level developer.
 
-
-## 🎨 Personal Touch
-
-I believe that combining **technical precision** with **creativity** creates powerful solutions.  
-I'm passionate about building projects that are not only functional but also intuitive and beautifully designed.
-
