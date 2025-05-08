@@ -3,8 +3,6 @@
 I'm passionate about **numbers** and **data**, which naturally led me to programming.  
 At the same time, I have a strong artistic side — I worked as a designer when I was younger — so pursuing a **Full Stack Developer** path feels like the perfect fit for my journey, combining both analytical and creative skills.
 
----
-
 ## 🚀 Technologies
 
 - 🌐 HTML5
