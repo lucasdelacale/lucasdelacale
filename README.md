@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas!
+# Hi, I'm Lucas!
 
 I'm passionate about **numbers** and **data**, which naturally led me to programming.  
 At the same time, I have a strong artistic side — I worked as a designer when I was younger — so pursuing a **Full Stack Developer** path feels like the perfect fit for my journey, combining both analytical and creative skills.
@@ -24,7 +24,7 @@ I'm diving deeper into:
 - Exploring frameworks like **React** and **Node.js**
 - Evaluating **Java** for potential backend specialization
 
-My goal is to build a solid, high-level skill set that allows me to grow into a capable and versatile developer.
+I am committed to continuous learning and growth to become an exceptional developer.
 
 
 ## 🌟 Open to Opportunities
